@@ -1,0 +1,6 @@
+traffic_source,sessions,product_view_rate,add_to_cart_rate,purchase_rate,cart_to_purchase_rate
+Email,306823,100.0,63.14,26.54,42.03
+Adwords,203654,100.0,63.15,26.57,42.07
+Facebook,68179,100.0,62.61,26.3,42.0
+YouTube,68091,100.0,63.22,26.61,42.08
+Organic,33999,100.0,63.28,26.98,42.64
